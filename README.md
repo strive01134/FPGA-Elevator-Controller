@@ -11,11 +11,11 @@ Overview
 - Stepper motor control
 - Push-button input synchronization
 - 7-segment display output
-- 
+  
 Development Environment
 - Board: Avnet Ultra96-V2
 - Device Family: Xilinx Zynq UltraScale+ MPSoC
 - Tool: Xilinx Vivado
 - HDL: Verilog HDL
 
-- 
+  
